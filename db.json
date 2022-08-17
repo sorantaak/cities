@@ -1,7 +1,7 @@
 {
   "cities": [
     {
-      "cityID": 1,
+      "id": 1,
       "label": "\u062a\u0647\u0631\u0627\u0646",
       "slug": "tehran",
       "sub_cities": [
